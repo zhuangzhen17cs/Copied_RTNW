@@ -33,13 +33,13 @@ langchain-openai==0.3.21
 langchain-text-splitters==0.3.8
 langsmith==0.3.45
 MarkupSafe==3.0.2
-matplotlib==3.9.4
+matplotlib==3.8.4
 narwhals==1.42.0
-numpy==2.0.2
+numpy==1.26.4
 openai==1.86.0
 orjson==3.10.18
 packaging==24.2
-pandas==2.3.0
+pandas==2.2.2
 pathlib==1.0.1
 pillow==11.2.1
 protobuf==6.31.1
@@ -72,4 +72,3 @@ tzdata==2025.2
 urllib3==2.4.0
 zipp==3.23.0
 zstandard==0.23.0
-matplotlib
