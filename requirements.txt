@@ -31,19 +31,19 @@ langchain==0.3.25
 langchain-core==0.3.64
 langchain-openai==0.3.21
 langchain-text-splitters==0.3.8
-langsmith==0.3.45
+# langsmith==0.3.45
 MarkupSafe==3.0.2
 matplotlib==3.8.4
 narwhals==1.42.0
 numpy==1.26.4
 openai==1.86.0
-orjson==3.10.18
+# orjson==3.10.18
 packaging==24.2
 pandas==2.2.2
 pathlib==1.0.1
 pillow==11.2.1
-protobuf==6.31.1
-pyarrow==20.0.0
+# protobuf==6.31.1
+# pyarrow==20.0.0
 pydantic==2.11.5
 pydantic_core==2.33.2
 pydeck==0.9.1
